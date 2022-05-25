@@ -1,0 +1,14 @@
+{
+  "name": "curso-nodejs-2022",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Node Js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Matamoros",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
